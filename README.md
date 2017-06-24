@@ -1,12 +1,5 @@
 
-Angular-Laravel created by GitHub Classroom
-
-Nama  : Agung Riyanto 
-Kelas : 01
-Nim   : 2014150052
-
-Versus
-
-Nama  : Sutino 
-Kelas : 01 
-Nim   : 2014150145
+Tugas 2 Angular - Laravel
+------------------------------------
+Frontend Alfan Fajarudin 2014150140
+Backend  Fatimah Sheeren 2014150093
